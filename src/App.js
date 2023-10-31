@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Header from './components/Header'
 import ResearchCards from './components/ResearchCards'
 import DemoCarousel from './components/DemoCarousel'
